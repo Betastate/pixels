@@ -1,0 +1,16 @@
+{
+  "name": "pixels",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "get-pixels": "^3.3.3"
+  }
+}
